@@ -1,10 +1,17 @@
-
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Login from "./Login";
 
 function App() {
   return (
-    <div>
-      <h1>Hello World!</h1>
-    </div>
+    <Router>
+      <div className="app">
+        <Switch>
+          <Route>
+            <Login />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
