@@ -7,7 +7,7 @@ export default function App() {
     <>
       <Router>
         <Switch>
-          <Route path="/v" component={Vote} />
+          <Route path="/*" component={Vote} />
         </Switch>
       </Router>
     </>

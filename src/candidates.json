@@ -1,0 +1,44 @@
+[
+    {
+        "positionName": "President",
+        "positionId": 1,
+        "candidates": [
+            {
+                "name": "Rihanna",
+                "id": "1",
+                "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed6604bdd5d320006caf816%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D697%26cropX2%3D1566%26cropY1%3D8%26cropY2%3D878"
+            },
+            {
+                "name": "Beyonce",
+                "id": "2",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2prsJmZFHwvLp7Up89W8Aj8V13pyJfULcMw&usqp=CAU"
+            },
+            {
+                "name": "Gal Gadot",
+                "id": "3",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKun1UiLMm1tABkKt9rlYviqIJjhOuwJ5urw&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "positionName": "Tresurer",
+        "positionId": 2,
+        "candidates": [
+            {
+                "name": "Nicki Minaj",
+                "id": "1",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8dSc7zmShnydZBTsPbChx-eXawOYveVyQVQ&usqp=CAU"
+            },
+            {
+                "name": "Cardi B",
+                "id": "2",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrvRIQNKVdrXD8ULNS7DMivBQXw66qbHX3g&usqp=CAU"
+            },
+            {
+                "name": "Ariana Grande",
+                "id": "3",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT05M1pj62FKcJuTVk9s9mNH3GCmZYq92UJxQ&usqp=CAU"
+            }
+        ]
+    }
+]
