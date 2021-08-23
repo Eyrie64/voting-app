@@ -1,0 +1,37 @@
+.card{
+    justify-content: space-evenly;
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+}
+
+.dashboard__card {
+    position: relative;
+    min-width: 28vw;
+    height: 82%;
+    border-radius: 20px;
+    box-shadow: 0px 4px 10px rgba(112, 112, 112, 0.733);
+}
+
+.card__value{
+    align-items: center;
+    font-size: 64px;
+    color: rgb(253, 253, 253);
+    margin-left: 5px;
+}
+
+.card__info{
+    margin-top: 120px;
+    padding: 10px;
+    font-size: 2.5vw;
+    font-weight: 500;
+    color: #fff;
+    align-items: center;
+    border-radius: 0 0 20px 20px;
+}
+
+.card__icon{
+    float: right;
+    margin-top: -15%;
+
+}

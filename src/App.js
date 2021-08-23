@@ -1,9 +1,12 @@
+import Header from "./Header";
+import Dashboard from "./Dashboard";
 
 
 function App() {
   return (
     <div>
-      <h1>Hello World!</h1>
+      <Header />
+      <Dashboard />
     </div>
   );
 }
